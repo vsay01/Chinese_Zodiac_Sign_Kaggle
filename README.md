@@ -37,3 +37,5 @@ AI Track's Exercise to create a basic CNN to recognize different animals from th
 Here is the demo video:
 
 [![Chinese_Zodiac_Sign Classification](http://img.youtube.com/vi/aj2QxFSw9lc/0.jpg)](https://www.youtube.com/watch?v=aj2QxFSw9lc "Chinese_Zodiac_Sign Classification")
+
+## [LICENSE](./LICENSE)
